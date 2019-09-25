@@ -16,7 +16,7 @@ extend  Memorable
     @@songs
   end
 
- extend  Memorableextend  Memorableextend  Memorableextend  Memorable
+ extend  Memorable
   def artist=(artist)
     @artist = artist
   end
